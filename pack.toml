@@ -1,0 +1,13 @@
+name = "Modpack"
+author = "AlexGlitch"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "6e2abaacbfcdff67376782c9307a1377ca768dd69b3618b398441dc18a18cd51"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.194"
